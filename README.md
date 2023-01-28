@@ -10,7 +10,7 @@ There are three primary voting methods that will be taken into account: Mail-in 
 counting machines are sent to the central office and read by a computer. All together, the vote cast by these three methods will determine the final election results. A vote count reported will be generated after all votes are counted
 
 ## Resources
-- Data Source [election_results.csv](https://github.com/Wiclif/Election-Analysis/new/main?election_results.csv)
+- Data Source [election_results.csv](https://github.com/Wiclif/Election-Analysis/blob/main/election_results.csv)
 - Software: Python 3.6.1, Jupyter Notebook
 
 ## Summary
