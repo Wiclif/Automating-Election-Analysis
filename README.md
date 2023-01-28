@@ -1,4 +1,4 @@
-# Election-Analysis
+# Automating Election Results
 This Project is tasked with assisting a Colorado Board of Elections employee Tom in an election audit of the tabulated results for U.S Congressional Precint in Colorado. The aim is to provide the following
 - The total number of Votes cast
 - The total number of votes for each candidate
